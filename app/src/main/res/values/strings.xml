@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">krutik_exam</string>
+    <string name="title_comics">Комиксы</string>
+    <string name="title_creators">Создатели</string>
+    <string name="title_favourite">Избранное</string>
+    <string name="title_about">О приложении</string>
+</resources>
